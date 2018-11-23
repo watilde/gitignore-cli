@@ -1,12 +1,17 @@
 {
   "name": "gitignore-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "gitignore manager",
   "main": "index.js",
+  "bin": {
+    "gitignore": "./bin/gitignore.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "gitignore"
+  ],
   "author": "Daijiro Wachi",
   "license": "MIT",
   "dependencies": {
