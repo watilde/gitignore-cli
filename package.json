@@ -1,7 +1,7 @@
 {
   "name": "gitignore-cli",
   "version": "0.0.1",
-  "description": "gitignore manager",
+  "description": "A gitignore manager based on gitub/gitignore",
   "main": "index.js",
   "bin": {
     "gitignore": "./bin/gitignore.js"
