@@ -1,5 +1,5 @@
 {
-  "name": "gitignore-cli",
+  "name": "@watilde/gitignore-cli",
   "version": "0.0.1",
   "description": "A gitignore manager based on gitub/gitignore",
   "main": "index.js",
