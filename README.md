@@ -22,5 +22,5 @@ $ npm install --global @gitignorejs/gitignore-cli
 ```
 
 ## Committers
-+ @watilde
-+ @uetchy
++ [@watilde](https://github.com/watilde)
++ [@uetchy](https://github.com/uetchy)
