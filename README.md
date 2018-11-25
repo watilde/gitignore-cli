@@ -1,10 +1,10 @@
 # gitignore-cli [![Build Status](https://travis-ci.org/watilde/gitignore-cli.svg?branch=master)](https://travis-ci.org/watilde/gitignore-cli)
-A gitignore manager based on [gitub/gitignore](https://github.com/gituhb/gitignore)
+A gitignore manager based on [github/gitignore](https://github.com/github/gitignore)
 
 ## Usage
 
 ```console
-$ gitignore -hh
+$ gitignore -h
 A gitignore manager based on gitub/gitignore
 
 Commands:
