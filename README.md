@@ -18,7 +18,7 @@ Options:
 ## Install via npm
 
 ```console
-$ npm install --global @watilde/gitignore
+$ npm install --global @gitignorejs/gitignore-cli
 ```
 
 ## Committers
