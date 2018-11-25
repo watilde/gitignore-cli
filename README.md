@@ -20,3 +20,7 @@ Options:
 ```console
 $ npm install --global @watilde/gitignore
 ```
+
+## Committers
++ @watilde
++ @uetchy
