@@ -3,7 +3,8 @@
 const yargs = require('yargs')
 const updateNotifier = require('update-notifier')
 const commands = {
-
+  add: require('../lib/add'),
+  list: require('../lib/list')
 }
 const pkgJSON = require('../package.json')
 const notifier = updateNotifier({pkg: pkgJSON})
@@ -17,7 +18,7 @@ yargs.usage(pkgJSON.description)
 yargs.help('help')
   .alias('help', 'h')
 
-yargs.version(() => { return pkgJSON.version })
+yargs.version(pkgJSON.version)
   .alias('version', 'v')
   .describe('version', 'Show version information')
 
