@@ -1,6 +1,6 @@
 {
   "name": "@gitignorejs/gitignore-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A gitignore manager based on github/gitignore",
   "main": "index.js",
   "bin": {
